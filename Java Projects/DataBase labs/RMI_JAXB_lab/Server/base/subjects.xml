@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subjects>
+   <subject>
+      <id>1</id>
+      <name>Math</name>
+      <mark>4</mark>
+   </subject>
+   <subject>
+      <id>2</id>
+      <name>English</name>
+      <mark>4</mark>
+   </subject>
+   <subject>
+      <id>3</id>
+      <name>Philosophy</name>
+      <mark>4</mark>
+   </subject>
+   <subject>
+      <id>4</id>
+      <name>DS</name>
+      <mark>4</mark>
+   </subject>
+</subjects>

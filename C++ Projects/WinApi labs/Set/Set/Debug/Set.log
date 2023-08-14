@@ -1,0 +1,7 @@
+﻿  MVC.cpp
+  Set.cpp
+C:\visualstudio\Set\Set\Set.cpp(27,15): warning C4390: ';': empty controlled statement found; is this the intent?
+  main.cpp
+C:\visualstudio\Set\Set\main.cpp(45,7): warning C4101: 'editValue': unreferenced local variable
+  Generating Code...
+  Set.vcxproj -> C:\visualstudio\Set\Debug\Set.exe

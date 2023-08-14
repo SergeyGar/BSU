@@ -1,0 +1,3 @@
+C:/visualstudio/BinaryTreeOnArray/cmake-build-debug/CMakeFiles/BinaryTreeOnArray.dir
+C:/visualstudio/BinaryTreeOnArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/visualstudio/BinaryTreeOnArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir

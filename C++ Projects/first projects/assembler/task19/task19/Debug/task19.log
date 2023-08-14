@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\visualstudio\task19\task19\main.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+  task19.vcxproj -> C:\visualstudio\task19\Debug\task19.exe

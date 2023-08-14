@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\visualstudio\task14\task14\Source.cpp(63,25): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(2698,35): error C2661: 'std::tuple<void (__cdecl *)(unsigned __int64,unsigned __int64),std::atomic<unsigned __int64>,unsigned __int64>::tuple': no overloaded function takes 3 arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\thread(55): message : see reference to function template instantiation 'std::unique_ptr<_Tuple,std::default_delete<_Tuple>> std::make_unique<_Tuple,void(__cdecl &)(unsigned __int64,unsigned __int64),std::atomic<unsigned __int64>&,_Ty,0>(void (__cdecl &)(unsigned __int64,unsigned __int64),std::atomic<_Ty> &,_Ty &&)' being compiled
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+C:\visualstudio\task14\task14\Source.cpp(82): message : see reference to function template instantiation 'std::thread::thread<void(__cdecl &)(unsigned __int64,unsigned __int64),std::atomic<unsigned __int64>&,_Ty,0>(_Fn,std::atomic<_Ty> &,_Ty &&)' being compiled
+          with
+          [
+              _Ty=unsigned __int64,
+              _Fn=void (__cdecl &)(unsigned __int64,unsigned __int64)
+          ]

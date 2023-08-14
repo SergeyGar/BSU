@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+	<id>4</id>
+	<student_name>A</student_name>
+	<group_number>1</group_number>
+	<subjects>
+		<subject>
+			<subject_id>1</subject_id>
+			<mark>4</mark>
+		</subject>
+		<subject>
+			<subject_id>2</subject_id>
+			<mark>10</mark>
+		</subject>
+		<subject>
+			<subject_id>3</subject_id>
+			<mark>9</mark>
+		</subject>
+		<subject>
+			<subject_id>4</subject_id>
+			<mark>2</mark>
+		</subject>
+	</subjects>
+</student>

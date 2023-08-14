@@ -1,0 +1,26 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>result</short-name>
+    <uri>/WEB-INF/result_tag.tld</uri>
+
+    <tag>
+        <name>resultTag</name>
+        <tag-class>com.example.web7.CustomTag</tag-class>
+        <body-content>empty</body-content>
+        <attribute>
+            <name>cake</name>
+            <required>true</required>
+            <rtexprvalue>true</rtexprvalue>
+            <type>com.example.web7.Cake</type>
+        </attribute>
+        <attribute>
+            <name>errorPage</name>
+            <required>true</required>
+            <rtexprvalue>true</rtexprvalue>
+            <type>java.lang.String</type>
+        </attribute>
+        <body-content>scriptless</body-content>
+    </tag>
+
+</taglib>

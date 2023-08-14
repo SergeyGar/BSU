@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\visualstudio\WinApiLIst\WinApiLIst\main.cpp(62,7): warning C4101: 'editValue': unreferenced local variable
+  MVC.cpp
+  Generating Code...
+  WinApiLIst.vcxproj -> C:\visualstudio\WinApiLIst\Debug\WinApiLIst.exe

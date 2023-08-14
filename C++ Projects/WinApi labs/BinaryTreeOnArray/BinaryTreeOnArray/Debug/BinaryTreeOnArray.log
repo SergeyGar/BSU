@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\visualstudio\BinaryTreeOnArray\BinaryTreeOnArray\main.cpp(45,7): warning C4101: 'editValue': unreferenced local variable
+  BinaryTreeOnArray.vcxproj -> C:\visualstudio\BinaryTreeOnArray\Debug\BinaryTreeOnArray.exe
